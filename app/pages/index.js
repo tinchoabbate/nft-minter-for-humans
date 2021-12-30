@@ -101,7 +101,7 @@ export default class App extends React.Component {
               ref={this.captchaRef}
             />
           </form>
-          <p><a href="">What's this site?</a></p>
+          <p><a href="https://github.com/tinchoabbate/nft-minter-for-humans" target="_blank">What's this site?</a></p>
         </main>
       </div>      
     )
